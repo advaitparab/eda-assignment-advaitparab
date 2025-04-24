@@ -48,19 +48,31 @@ You'll also find some tips and links to documentations that will help you comple
 - Submit your work by submitting a link to your repository on Canvas.
 
 ---------------
-## 💭 Reflection and Self Assessment
+# 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to handle missing data using pandas.
+- The importance of visualizing data distributions to make informed decisions.
 
 **I struggled with:** (repeat as needed)
-- .
+- Understanding the difference between mean, median, and trimmed mean for imputation.
+- Deciding when to drop rows versus imputing missing values.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Interpreting correlation matrices and scatter plots effectively.
+- Best practices for handling outliers in datasets.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+6 hours.
+
+**How often did you have to check the solution to the problem? How do you feel about that?**
+- I referred to the solutions a few times, especially for syntax-related issues. I feel it was helpful but would like to rely less on them in the future.
+
+**If I were to do this assignment again, I would:** (repeat as needed)
+- Spend more time exploring the dataset before starting the tasks.
+- Try alternative methods for imputing missing data and compare results.
+
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
 
